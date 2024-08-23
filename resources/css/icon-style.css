@@ -1,0 +1,9 @@
+/*Increase the default Icon size*/
+i.ti {
+    font-size: 20px;
+}
+.auth-logo {
+    height: auto; /* Ajusta el valor a tu preferencia */
+    width: auto;   /* Mantiene la proporción de la imagen */
+}
+
